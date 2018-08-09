@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?> 
+<!DOCTYPE struts PUBLIC
+    "-//Apache Software Foundation//DTD Struts Configuration 2.1.7//EN"
+    "http://struts.apache.org/dtds/struts-2.1.7.dtd">
+<struts>
+ 	<package name="default" extends="struts-default">
+		<action name="login" class="com.ladeal.basic.action.LoginAction" method="login">
+			<result name="success">/pages/success.jsp</result>
+			<result name="failured">/pages/index.jsp</result>
+		</action>
+		<action name="user_test" class="com.ladeal.basic.action.LoginAction" method="test">
+				<result name="success">/pages/success.jsp</result>
+		</action>
+	</package>
+</struts>
