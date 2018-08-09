@@ -2,13 +2,13 @@
 
 ![1533814678870](C:\Users\walss\Desktop\1533814678870.png)
 
- ![image] (../picture/readme/1533815583740.png)
+![Image text]:(../picture/readme/1533815583740.png)
 
    选中maven-aechetype-webapp 
 
 ![1533814847166](C:\Users\walss\Desktop\1533814847166.png)
 
- ![image] (../picture/readme/1533814847166.png)
+![Image text]:(../picture/readme/1533814847166.png)
 
 group Id一般为公司域 ；Artifact Id相当于项目名称 ·
 
