@@ -1,10 +1,10 @@
 **一、新建MAVEN项目**
 
-![](.picture\readme\1533814678870.png)
+![](.picture/readme/1533814678870.png)
 
    选中maven-aechetype-webapp 
 
-![1533814847166](.picture\readme\1533814847166.png)
+![](.picture/readme/533814847166.png)
 
 group Id一般为公司域 ；Artifact Id相当于项目名称 ·
 
