@@ -4,7 +4,7 @@
 
    选中maven-aechetype-webapp 
 
-![](./picture/readme/533814847166.png)
+![](./picture/readme/1533814847166.png)
 
 group Id一般为公司域 ；Artifact Id相当于项目名称 ·
 
@@ -294,12 +294,12 @@ group Id一般为公司域 ；Artifact Id相当于项目名称 ·
 
 四、新建一套model、action、dao、daoImpl、service、serviceImpl
 
-![](.picture/readme/1533816528899.png)
+![](./picture/readme/1533816528899.png)
 
 
 
 
-![](.picture/readme/1533816592164.png)
+![](./picture/readme/1533816592164.png)
 
 在resources下面建3个配置文件。
 
