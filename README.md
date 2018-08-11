@@ -1,10 +1,10 @@
 **一、新建MAVEN项目**
 
-![](.picture/readme/1533814678870.png)
+![](./picture/readme/1533814678870.png)
 
    选中maven-aechetype-webapp 
 
-![](.picture/readme/533814847166.png)
+![](./picture/readme/533814847166.png)
 
 group Id一般为公司域 ；Artifact Id相当于项目名称 ·
 
@@ -193,7 +193,7 @@ group Id一般为公司域 ；Artifact Id相当于项目名称 ·
 
    三、**编写配置文件** 
 
-![](.picture\readme\1533815583740.png)
+![](./picture/readme/1533815583740.png)
 
 **web.xml**
 
@@ -231,7 +231,7 @@ group Id一般为公司域 ；Artifact Id相当于项目名称 ·
 
 
 
-![](.picture\readme\1533815765667.png)
+![](./picture/readme/1533815765667.png)
 
 在web-inf下面添加applicationContext.xml文件:
 
@@ -294,12 +294,12 @@ group Id一般为公司域 ；Artifact Id相当于项目名称 ·
 
 四、新建一套model、action、dao、daoImpl、service、serviceImpl
 
-![](.picture\readme\1533816528899.png)
+![](.picture/readme/1533816528899.png)
 
 
 
 
-![](.picture\readme\1533816592164.png)
+![](.picture/readme/1533816592164.png)
 
 在resources下面建3个配置文件。
 
